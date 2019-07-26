@@ -6,4 +6,4 @@
 
 (fn)")
 
-(provide 'tree-sitter-lang-python)
+(provide 'tree-sitter-lang-go)
