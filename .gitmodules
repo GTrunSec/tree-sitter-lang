@@ -1,0 +1,3 @@
+[submodule "langs/go/externals/tree-sitter-go"]
+	path = langs/go/externals/tree-sitter-go
+	url = https://github.com/tree-sitter/tree-sitter-go.git
